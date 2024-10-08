@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jbordone/learning-react/static/css/main.8fd7583c.css",
-    "main.js": "/jbordone/learning-react/static/js/main.d8113121.js",
-    "index.html": "/jbordone/learning-react/index.html",
-    "static/media/delete.svg": "/jbordone/learning-react/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/jbordone/learning-react/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.8fd7583c.css.map": "/jbordone/learning-react/static/css/main.8fd7583c.css.map",
-    "main.d8113121.js.map": "/jbordone/learning-react/static/js/main.d8113121.js.map"
+    "main.css": "/learning-react/static/css/main.8fd7583c.css",
+    "main.js": "/learning-react/static/js/main.32ae50a8.js",
+    "index.html": "/learning-react/index.html",
+    "static/media/delete.svg": "/learning-react/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/learning-react/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.8fd7583c.css.map": "/learning-react/static/css/main.8fd7583c.css.map",
+    "main.32ae50a8.js.map": "/learning-react/static/js/main.32ae50a8.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd7583c.css",
-    "static/js/main.d8113121.js"
+    "static/js/main.32ae50a8.js"
   ]
 }
